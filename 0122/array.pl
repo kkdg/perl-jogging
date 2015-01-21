@@ -9,3 +9,7 @@ print "\$names[0] = $names[0]\n";
 print "\$names[1] = $names[1]\n";
 print "\$names[2] = $names[2]\n";
 
+$size = @names;
+
+print "Number of names are : $size\n";
+print "Given names are : @names\n";

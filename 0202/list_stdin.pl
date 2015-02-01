@@ -1,4 +1,3 @@
-@list = <STDIN>;
+chomp(@list = <STDIN>);
 
 print @list;
-

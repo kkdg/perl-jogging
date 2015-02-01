@@ -1,0 +1,4 @@
+@list = <STDIN>;
+
+print @list;
+

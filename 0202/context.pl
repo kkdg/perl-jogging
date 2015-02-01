@@ -4,3 +4,4 @@ $number = 42 + @people;
 
 print @sorted;
 print $number;
+
